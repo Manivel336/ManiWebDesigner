@@ -1,4 +1,4 @@
-<h1>Hi, I'm Manivel! <br/><a href="https://github.com/Manivel336">Programmer</a>, <a href="https://www.linkedin.com/in/manivel-k-13b465224/">LinkedIn</a>,<a href="https://papashabits.blogspot.com/"> Blogger </a> </h1>
+<h1>Hi, I'm Manivel! <br/><a href="https://github.com/Manivel336">Programmer</a>, <a href="https://www.linkedin.com/in/manivel-k-13b465224/">LinkedIn</a>,<a href="https://papashabits.blogspot.com/"> Blogger </a>, <a href="https://www.instagram.com/invites/contact/?i=1jr68v1rrbsxv&utm_content=ouxqdy5"> Instagram </a> </h1>
 
 <h2>👨‍💻 Web Development Projects:</h2>
 
