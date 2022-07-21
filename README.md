@@ -6,8 +6,8 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-<img align="left" alt="Manivel | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-<img align="left" alt="Manivel | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+<img align="left" alt="Manivel | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" href="" />
+<img align="left" alt="Manivel | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" href="https://www.instagram.com/invites/contact/?i=1jr68v1rrbsxv&utm_content=ouxqdy5" />
 
 
 
